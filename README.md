@@ -7,8 +7,8 @@ I believe that some of the challenges to working with music related data could b
 Currently, the manifestations of data relating to Debussy is curated is through descriptive, notated and acoustic data.
 
 ### Descriptive Data
-Cofjttfee f
+
 ### Notated Data
-Coffejfrfr
+
 ### Acoustic Data
-Cofrerrf
+
