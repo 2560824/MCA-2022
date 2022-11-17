@@ -4,4 +4,11 @@ The Theme for my dataset will be Debussy and the late Romance era. Debussy was a
 
 I believe that some of the challenges to working with music related data could be collecting the metadata as Debussy, although well known, composed his music more than 100 years ago, therefore collecting accurate metadata could pose as a challenge. 
 
-Currently, the way data about Debussy is curated is 
+Currently, the manifestations of data relating to Debussy is curated is through descriptive, notated and acoustic data.
+
+### Descriptive Data
+Cofjttfee f
+### Notated Data
+Coffejfrfr
+### Acoustic Data
+Cofrerrf
