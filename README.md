@@ -9,6 +9,6 @@ Currently, the manifestations of data relating to Debussy is curated is through 
 ### Descriptive Data
 Most of Debussy's compositions can be found on streaming platforms such as Spotify and Apple music along with video sharing platforms such as Youtube. 
 ### Notated Data
-Many of his works can be found as printed scores on websites such as the International Music Score Library Project and other online archives. 
+Most of his documented works can be found as printed scores on websites such as the International Music Score Library Project and various other online archives. 
 ### Acoustic Data
-
+Live performances of Debussy's music can, again, be found on streaming platforms such as Spotify, Apple Music and Youtube. 
