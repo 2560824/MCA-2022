@@ -37,7 +37,9 @@ In week 8, I gathered 3 separate music tracks named: Music Manic's 'Never Though
 
 
 ### Never Thought I'd Fall In Love
-
+Spectogram
 <img width="783" alt="Never Thought I'd Fall In Love Spectogram" src="https://user-images.githubusercontent.com/114600166/206927703-04b637e4-d084-4bcd-b496-5393eb281708.png">
+Waveform
+<img width="1168" alt="Never Thought I'd Fall In Love Waveform" src="https://user-images.githubusercontent.com/114600166/206927773-19f8ad47-7052-4ea8-aa79-46da12f79634.png">
 
 
