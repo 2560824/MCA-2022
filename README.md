@@ -84,6 +84,6 @@ The main advantage of time-frequency analysis over waveform analysis is the ease
 
 ## Original Piece
 
-<img width="300" height= "500" alt="Screenshot 2022-12-11 at 23 50 57" src="https://user-images.githubusercontent.com/114600166/206936518-f8f1472b-2bd2-4138-9a0f-e2781b40e828.png"> <img width="300" height= "500" alt="Screenshot 2022-12-11 at 23 50 47" src="https://user-images.githubusercontent.com/114600166/206936523-2b4a767e-1edc-499b-80c8-11c523280abf.png">
+<img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 50 57" src="https://user-images.githubusercontent.com/114600166/206936518-f8f1472b-2bd2-4138-9a0f-e2781b40e828.png"> <img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 50 47" src="https://user-images.githubusercontent.com/114600166/206936523-2b4a767e-1edc-499b-80c8-11c523280abf.png">
 
 
