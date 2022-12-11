@@ -34,3 +34,9 @@ In week 8, I gathered 3 separate music tracks named: Music Manic's 'Never Though
 |Sample Rates|44100Hz|44100Hz|44100Hz|
 |Bits per second|46000|46500|50000|
 |Duration|8:43|3:23|2:45|
+
+
+### Never Thought I'd Fall In Love
+<img width="783" alt="Never Thought I'd Fall In Love Spectogram" src="https://user-images.githubusercontent.com/114600166/206927703-04b637e4-d084-4bcd-b496-5393eb281708.png"><img width="1168" alt="Never Thought I'd Fall In Love Waveform" src="https://user-images.githubusercontent.com/114600166/206927711-5c0e0701-2732-44c8-816a-332b3d841ee3.png">
+
+
