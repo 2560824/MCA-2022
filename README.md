@@ -45,4 +45,22 @@ Waveform
 
 <img width="1168" alt="Never Thought I'd Fall In Love Waveform" src="https://user-images.githubusercontent.com/114600166/206927773-19f8ad47-7052-4ea8-aa79-46da12f79634.png">
 
+### Summer Breeze
+Spectogram
+
+<img width="1022" alt="Summer Breeze Spectogram" src="https://user-images.githubusercontent.com/114600166/206927810-58be45bf-c313-43e3-959d-9403c5d4a313.png">
+
+Waveform
+
+<img width="909" alt="Summer Breeze Waveform" src="https://user-images.githubusercontent.com/114600166/206927822-61109b99-9ad5-4df3-875e-b780059e5ff4.png">
+
+### Scratch My Mind
+Spectogram
+
+<img width="887" alt="Scratch My Mind Spectogram " src="https://user-images.githubusercontent.com/114600166/206927852-3c1c0dfd-e343-4272-9b28-0961e2dcf0a1.png">
+
+Waveform
+
+<img width="1161" alt="Scratch My Mind  Wave Form" src="https://user-images.githubusercontent.com/114600166/206927866-218a28cd-7687-4c89-a110-4fc79c04b133.png">
+
 
