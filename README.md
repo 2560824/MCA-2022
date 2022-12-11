@@ -23,7 +23,14 @@ In week four, I attempted to generate a jSymbolic analysis of 'Heroes' by David 
 In week 8, I gathered 3 separate music tracks named: Music Manic's 'Never Thought I'd Fall In Love', Mindseye's 'Summer Breeze' and Adeline Yeo's 'Scratch My Mind' in the musical stylings of House,IDM and breakcore respectively. I collected these music tracks from the website 'freemusicarchive.org' 
 
 
-|               | Neverthought I'd Fall In Love| Summer Breeze| Scratch My Mind|
-| ------------- | ------------- |--------------|
+| Metadata|Neverthought I'd Fall In Love| Summer Breeze| Scratch My Mind|
+| ------------- | -------------- |--------------|----------------|
 | Artist  | Music Manic  | Mindseye | Adeline Yeo |
-| Content Cell  | Content Cell  |
+|Coyright Info| CC BY-NC 4.0 |CC BY-SA 4.0|CC BY-SA 4.0|
+|Genre|House|IDM|Breakcore|
+|Source|Freemusicarchive|Freemusicarchive|Freemusicarchive|
+|Audio Format|MP3|MP3|MP3|
+|Number of Channels|2|2|2|
+|Sample Rates|44100Hz|44100Hz|44100Hz|
+|Bits per second|46000|46500|50000|
+|Duration||8:43|3:23|2:45|
