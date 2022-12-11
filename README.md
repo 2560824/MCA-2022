@@ -33,4 +33,4 @@ In week 8, I gathered 3 separate music tracks named: Music Manic's 'Never Though
 |Number of Channels|2|2|2|
 |Sample Rates|44100Hz|44100Hz|44100Hz|
 |Bits per second|46000|46500|50000|
-|Duration||8:43|3:23|2:45|
+|Duration|8:43|3:23|2:45|
