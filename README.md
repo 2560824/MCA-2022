@@ -63,4 +63,5 @@ Waveform
 
 <img width="1000" height="350" alt="Scratch My Mind  Wave Form" src="https://user-images.githubusercontent.com/114600166/206927866-218a28cd-7687-4c89-a110-4fc79c04b133.png">
 
-
+## Analysis
+The main advantage of time-frequency analysis over waveform analysis is the ease with which significant information about the particular musical composition may be extracted. A waveform evaluation, in contrast, has a lot of data but does not display it in a way that is clear to the human eye. Although it omits the necessary numbers, it does in fact give us information about the song's intensity at any given time, and the wave shape shows us how often the frequency fluctuates. 
