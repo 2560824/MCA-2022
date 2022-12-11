@@ -18,3 +18,12 @@ In week two and three, I downloaded sheet music of David Bowie's 'Heroes' from '
 
 ## Week 4
 In week four, I attempted to generate a jSymbolic analysis of 'Heroes' by David Bowie and then chose a set of elements that I felt were the most interesting and appropriate for my specific piece. I then attempted to use the Python notebook on the Moodle to generate a piano roll and pitch histogram of 'Heroes' using music21.
+
+## Week 8
+In week 8, I gathered 3 separate music tracks named: Music Manic's 'Never Thought I'd Fall In Love', Mindseye's 'Summer Breeze' and Adeline Yeo's 'Scratch My Mind' in the musical stylings of House,IDM and breakcore respectively. I collected these music tracks from the website 'freemusicarchive.org' 
+
+
+|               | Neverthought I'd Fall In Love| Summer Breeze| Scratch My Mind|
+| ------------- | ------------- |--------------|
+| Artist  | Music Manic  | Mindseye | Adeline Yeo |
+| Content Cell  | Content Cell  |
