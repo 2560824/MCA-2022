@@ -65,3 +65,18 @@ Waveform
 
 ## Analysis
 The main advantage of time-frequency analysis over waveform analysis is the ease with which significant information about the particular musical composition may be extracted. A waveform evaluation, in contrast, has a lot of data but does not display it in a way that is clear to the human eye. Although it omits the necessary numbers, it does in fact give us information about the song's intensity at any given time, and the wave shape shows us how often the frequency fluctuates. For example, in the spectogram and waveform of 'Never Thought I'd Fall In Love', the spectogram shows the general shape of the song, letting us know an estimate of how it sounds whereas the waveform only shows dynamics or, more generally, the level of sound throughout the composition. 
+
+## Week 9
+### Never Thought I'd Fall in Love
+
+<img width="500" alt="Never Thought I'd Fall in love" src="https://user-images.githubusercontent.com/114600166/206932979-ec83a543-9a3b-4e65-814a-cf73007014dd.png">
+
+### Summer Breeze
+
+<img width="500" alt="Summer Breeze" src="https://user-images.githubusercontent.com/114600166/206933058-2d186d0b-5593-43ca-9599-6453002b736c.png">
+
+
+### Scratch My Brain
+
+<img width="500" alt="scratch my brain" src="https://user-images.githubusercontent.com/114600166/206933123-2552bf83-33e7-49c4-ae49-b01d8be00f97.png">
+
