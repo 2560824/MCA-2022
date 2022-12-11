@@ -57,7 +57,7 @@ Waveform
 ### Scratch My Mind
 Spectogram
 
-<img width="1000" alt="Scratch My Mind Spectogram " src="https://user-images.githubusercontent.com/114600166/206927852-3c1c0dfd-e343-4272-9b28-0961e2dcf0a1.png">
+<img width="1000" height="500" alt="Scratch My Mind Spectogram " src="https://user-images.githubusercontent.com/114600166/206927852-3c1c0dfd-e343-4272-9b28-0961e2dcf0a1.png">
 
 Waveform
 
