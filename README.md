@@ -82,11 +82,13 @@ The main advantage of time-frequency analysis over waveform analysis is the ease
 
 ## Week 10
 
-## Original Piece
+### Original Piece
 
 <img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 50 57" src="https://user-images.githubusercontent.com/114600166/206936518-f8f1472b-2bd2-4138-9a0f-e2781b40e828.png"> <img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 50 47" src="https://user-images.githubusercontent.com/114600166/206936523-2b4a767e-1edc-499b-80c8-11c523280abf.png">
 
-## Transcription
+### Transcription
 
 <img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 58 23" src="https://user-images.githubusercontent.com/114600166/206936920-cf03033b-1fc6-41c1-8048-8417ee2a5750.png"> <img width="300" height= "450" alt="Screenshot 2022-12-11 at 23 58 29" src="https://user-images.githubusercontent.com/114600166/206936942-d8c7f043-c24f-4947-9aab-67efb173d3bf.png">
 
+### Analysis
+The transcription has managed to change most of the factors of the my original correction. It has changed the metre, key, merged the piano and voice and also given it a BPM. Hearing the piece on Sonic Visualiser also confirms that the transcription has changed the original song by a lot, it is completely different from the original song. 
