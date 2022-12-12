@@ -14,7 +14,7 @@ Most of his documented works can be found as printed scores on websites such as 
 Live performances of Bowie's music can, again, be found on streaming platforms such as Spotify, Apple Music and Youtube. 
 
 ## Week 2&3
-In week two and three, I downloaded sheet music of David Bowie's 'Heroes' from 'the piano notes' and converted the sheet music into a musescore project. I then edited the project so that it would look as similar to the initial sheet music as possible. In week three, I exported the musescore score into MusicXML and then attempted to export to MEI. 
+In week two and three, I downloaded sheet music of David Bowie's 'Heroes' from 'the piano notes' and converted the sheet music into a musescore project. I then edited the project so that it would look as similar to the initial sheet music as possible. This can be accessed [here](https://musescore.com/user/56277842/scores/9164577) In week three, I exported the musescore score into MusicXML and then attempted to export to MEI. 
 
 ## Week 4
 In week four, I attempted to generate a jSymbolic analysis of 'Heroes' by David Bowie and then chose a set of elements that I felt were the most interesting and appropriate for my specific piece. I then attempted to use the Python notebook on the Moodle to generate a piano roll and pitch histogram of 'Heroes' using music21.
