@@ -9,7 +9,7 @@ Currently, the manifestations of data relating to Bowie is curated is through de
 ### Descriptive Data
 Most of Bowie's songs can be found on streaming platforms such as Spotify and Apple music along with video sharing platforms such as Youtube. 
 ### Notated Data
-Most of his documented works can be found as printed scores on websites such as websites like musicnotes and various other online archives as well as compilations of his work on printed booklets sold by various companies. 
+Most of his documented works can be found as printed scores on websites such as musicnotes and various other online archives as well as compilations of his work on printed booklets sold by various companies. 
 ### Acoustic Data
 Live performances of Bowie's music can, again, be found on streaming platforms such as Spotify, Apple Music and Youtube. 
 
